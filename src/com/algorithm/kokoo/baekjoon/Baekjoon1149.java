@@ -7,7 +7,7 @@ public class Baekjoon1149 {
     final static int RED = 0;
     final static int GREEN = 1;
     final static int BLUE = 2;
-    public static void run() {
+    public void run() {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
