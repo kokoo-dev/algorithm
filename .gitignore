@@ -1,2 +1,6 @@
 # Project exclude paths
+*.project
+*.classpath
+*.settings
+misc.xml
 /out/
